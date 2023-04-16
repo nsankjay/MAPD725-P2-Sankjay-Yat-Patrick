@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "ad7ad60b4246",
+        "mtime": 1674820190858,
+        "size": 146676753,
+        "localPath": "/Users/sankjaynithyanandalingam/Desktop/Projects/Emerging Tech/Assignments/MAPD725-P2-Sankjay-Yat-Patrick/Prototype/MAPD725-P2-Sankjay-Yat-Patrick/MAPD725-P2-Sankjay-Yat-Patrick/Packages/com.ptc.vuforia.engine-10.13.3.tgz"
+      }
+    }
+  }
+}
