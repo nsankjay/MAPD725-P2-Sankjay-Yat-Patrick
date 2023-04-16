@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bmw-logo" size="0.215000 0.120170" />
+    <ImageTarget name="Stone-Texture" size="0.215000 0.142952" />
+  </Tracking>
+</QCARConfig>
